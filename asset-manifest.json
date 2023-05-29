@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reac_cal/static/css/main.8dcaf4f0.css",
+    "main.js": "/reac_cal/static/js/main.f8307e9c.js",
+    "index.html": "/reac_cal/index.html",
+    "main.8dcaf4f0.css.map": "/reac_cal/static/css/main.8dcaf4f0.css.map",
+    "main.f8307e9c.js.map": "/reac_cal/static/js/main.f8307e9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dcaf4f0.css",
+    "static/js/main.f8307e9c.js"
+  ]
+}
